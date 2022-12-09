@@ -1,0 +1,1 @@
+Images which are going to be used should be stored here
